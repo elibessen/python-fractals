@@ -25,3 +25,8 @@ The visual representation of the mandelbrot set may be created by determining, f
 ## Julia sets
 
 The definition of a Julia set is very similar to the mandelbrot set. As a reminder, the Mandelbrot set is the set of the complex numbers $c$  for which the sequence $z_{n+1}=z_{n}^2+c$ is bounded ($z_0$ is set to $0$). While, the definition of the Julia sets is the numbers $z_0$ for which the sequence is bounded, with $c$ a constant value.
+
+# Output:
+
+![Mandelbrot Fractal](https://github.com/LCordial/python-fractals/blob/master/mandelbrot.png)
+![Julia Fractal](https://github.com/LCordial/python-fractals/blob/master/julia.png)
