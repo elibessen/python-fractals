@@ -2,7 +2,7 @@
 
 > Basic Python Fractal Scripts
 
-Don't expect high-quality images.
+Don't expect high-quality images. Math equations didn't work :(
 
 ### Packages
 
@@ -10,7 +10,7 @@ Pillow. A PIL fork.
 
 ## Mandelbrot sets
 
-A Mandelbrot set is defined by the set of complex numbers $c$ for which the complexm numbers of the sequence $z_{n}$ remain bounded in absolute value. The sequence $z_n$ is defined by:
+A Mandelbrot set is defined by the set of complex numbers c for which the complexm numbers of the sequence $z_{n}$ remain bounded in absolute value. The sequence $z_n$ is defined by:
 
 - $z_{0}$
 - $z_{n+1}=z_{n}^2+c$
