@@ -2,7 +2,7 @@
 
 > Basic Python Fractal Scripts
 
-Don't expect high-quality images. Math equations didn't work :(
+Don't expect high-quality images.
 
 ### Packages
 
